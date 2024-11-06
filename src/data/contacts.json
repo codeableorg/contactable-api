@@ -6,15 +6,15 @@
       "lastName": "Doe2",
       "email": "john@example.com",
       "avatarUrl": "",
-      "isFavorite": true
+      "isFavorite": false
     },
     {
-      "firstName": "Diego",
+      "firstName": "Diego Actualizado",
       "lastName": "Torres",
       "email": "diego@codeable.la",
       "avatarUrl": "",
       "id": "1730823583717",
-      "isFavorite": true
+      "isFavorite": false
     },
     {
       "firstName": "Testino",
@@ -30,7 +30,7 @@
       "email": "gonzalo@mail.com",
       "avatarUrl": "",
       "id": "1730871322460",
-      "isFavorite": true
+      "isFavorite": false
     },
     {
       "firstName": "Sebastian",
@@ -63,6 +63,22 @@
       "avatarUrl": "",
       "id": "1730871458795",
       "isFavorite": false
+    },
+    {
+      "firstName": "Nuevo",
+      "lastName": "Contacto",
+      "email": "diego@mail.com",
+      "avatarUrl": "",
+      "id": "1730911173193",
+      "isFavorite": false
+    },
+    {
+      "firstName": "Ultimo",
+      "lastName": "Prueba",
+      "email": "prueba@mail.com",
+      "avatarUrl": "https://github.com/diegotc86.png",
+      "id": "1730913454209",
+      "isFavorite": true
     }
   ]
 }
