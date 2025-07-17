@@ -9,3 +9,6 @@ dist/
 
 # IDEs and editors
 .vscode/
+
+# Local data
+contacts.json
